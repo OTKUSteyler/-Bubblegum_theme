@@ -15,10 +15,10 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#897E00"
+            "#890070"
         ],
         "HEADER_SECONDARY": [
-            "#EFDFD7"
+            "#890070"
         ],
         "TEXT_NORMAL": [
             "#E7D6CE"
