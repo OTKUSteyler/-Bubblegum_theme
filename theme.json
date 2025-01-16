@@ -27,7 +27,7 @@
             "#E08AA3"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#FF42BA" // Vibrant pink added here
+            "#F4A8B5"
         ],
         "INTERACTIVE_MUTED": [
             "#A76E78"
@@ -69,7 +69,7 @@
             "#69424F"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#FF42BA" // Vibrant pink added here
+            "#D86A88"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#4A3D44"
@@ -93,7 +93,7 @@
             "#C19A93"
         ],
         "TEXT_LINK": [
-            "#FF42BA" // Vibrant pink added here
+            "#E88BB0"
         ],
         "TEXT_DANGER": [
             "#B26573"
@@ -113,7 +113,7 @@
         "PRIMARY_100": "#FDE4E9",
         "PRIMARY_200": "#F6C1CC",
         "PRIMARY_300": "#EA97A6",
-        "PRIMARY_360": "#FF42BA", // Vibrant pink added here
+        "PRIMARY_360": "#E88BB0",
         "PRIMARY_400": "#E27599",
         "PRIMARY_600": "#3F3331",
         "PRIMARY_630": "#473639",
