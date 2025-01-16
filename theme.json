@@ -8,9 +8,9 @@
         }
     ],
     "semanticColors": {
-
-        [
-        "PLUM_10": "#0FF6FF"
+                           [        
+        "PLUM_10": 
+        "#0FF6FF"
         ],
         "HEADER_PRIMARY": [
             "#E963A5"
