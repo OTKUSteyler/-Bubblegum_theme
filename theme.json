@@ -6,136 +6,133 @@
             "name": "btmc717",
             "id": "554071670143451176"
         },
-
         {
             "name": "btmc727",
             "id": "554071670143451176"
-          
         }
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#890070"
+            "#D93A96"
         ],
         "HEADER_SECONDARY": [
-            "#890070"
+            "#BF73A0"
         ],
         "TEXT_NORMAL": [
-            "#E7D6CE"
+            "#EBD4C9"
         ],
         "TEXT_MUTED": [
-            "#A07D6C"
+            "#9B8478"
         ],
         "INTERACTIVE_NORMAL": [
-            "#EFDFD7"
+            "#F1C7BA"
         ],
         "INTERACTIVE_HOVER": [
-            "#503E38"
+            "#BC8D82"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#EFDFD7"
+            "#E9B9A5"
         ],
         "INTERACTIVE_MUTED": [
-            "#957261"
+            "#8F6D66"
         ],
         "BACKGROUND_PRIMARY": [
-            "#110D0A"
+            "#1E1A18"
         ],
         "BACKGROUND_SECONDARY": [
-            "#15100d"
+            "#292320"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#15100d"
+            "#2E2926"
         ],
         "BACKGROUND_TERTIARY": [
-            "#110D0A"
+            "#24201E"
         ],
         "BACKGROUND_ACCENT": [
-            "#503E38"
+            "#4A3D3A"
         ],
         "BACKGROUND_FLOATING": [
-            "#15100d"
+            "#352F2C"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#15100d"
+            "#292320"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#15100d"
+            "#2E2926"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#15100d"
+            "#2E2926"
         ],
-       
         "BACKGROUND_MESSAGE_HOVER": [
-            "#322720"
+            "#3C312E"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#322720"
+            "#493D3A"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#3a2c26"
+            "#563C3A"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#890003"
+            "#D14E6E"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "503E38"
+            "#4A3D3A"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#26273b"
+            "#674F4C"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#DAC0B3"
+            "#9C7D74"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#DAC0B3"
+            "#4A3D3A"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#372E29"
+            "#3F3532"
         ],
         "CHANNELS_DEFAULT": [
-            "#9E8376"
+            "#B08A7D"
         ],
         "TEXT_LINK": [
-            "#9E8376"
+            "#DB7290"
         ],
         "TEXT_DANGER": [
-            "#503E38"
+            "#9A6E67"
         ],
         "KEYBOARD": [
-            "#110D0A"
+            "#2E2624"
         ],
         "CHANNEL_ICON": [
-            "#EFDFD7"
+            "#ECCBBF"
         ],
         "CHAT_BACKGROUND": [
-            "#008935"
+            "#005F50"
         ]
     },
     "rawColors": {
-        "PRIMARY_500": "#9E8376",
-        "PRIMARY_100": "#EFDFD7",
-        "PRIMARY_200": "#F4EAE5",
-        "PRIMARY_300": "#9E8376",
-        "PRIMARY_360": "#9E8376",
-        "PRIMARY_400": "#9E8376",
-        "PRIMARY_600": "#100D0A",
-        "PRIMARY_630": "#1B1411",
-        "PRIMARY_660": "#1B1411",
-        "PRIMARY_700": "#100D0A",
-        "PRIMARY_800": "#100D0A",
-        "BRAND_260": "#957261",
-        "BRAND_360": "#D0A996",
-        "BRAND_500": "#957261",
-        "BRAND_560": "#D0A996",
-        "YELLOW_300": "#957261",
-        "GREEN_600": "#EFDFD7",
-        "RED_400": "#9E8376",
-        "WHITE_500": "#EFDFD7",
-        "GREEN_360": "#503E38"
+        "PRIMARY_500": "#D93A96",
+        "PRIMARY_100": "#F5E4DE",
+        "PRIMARY_200": "#E8C9BE",
+        "PRIMARY_300": "#D99385",
+        "PRIMARY_360": "#DB7290",
+        "PRIMARY_400": "#D05A7E",
+        "PRIMARY_600": "#2F2523",
+        "PRIMARY_630": "#392F2C",
+        "PRIMARY_660": "#3D3331",
+        "PRIMARY_700": "#241C1A",
+        "PRIMARY_800": "#1C1513",
+        "BRAND_260": "#A98478",
+        "BRAND_360": "#D4A096",
+        "BRAND_500": "#A26E62",
+        "BRAND_560": "#C09186",
+        "YELLOW_300": "#C0907A",
+        "GREEN_600": "#D8BDB0",
+        "RED_400": "#B06A64",
+        "WHITE_500": "#F8ECE7",
+        "GREEN_360": "#4D5A4A"
     },
     "spec": 2
 }
