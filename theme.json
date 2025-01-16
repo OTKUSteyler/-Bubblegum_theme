@@ -1,6 +1,6 @@
 {
-    "name": "BubbleGumtheme",
-    "description": "A cozy, vibrant theme made by btmc727.",
+    "name": "Nekotheme",
+    "description": "A cozy, vibrant theme by btmc727.",
     "authors": [
         {
             "name": "btmc727",
@@ -10,8 +10,8 @@
     "semanticColors": {
         "HEADER_PRIMARY": [
             "#E963A5"
-            [
-        "HEADER_SECONDARY": ],
+        ],
+        "HEADER_SECONDARY": [
             "#C4558A"
         ],
         "TEXT_NORMAL": [
@@ -21,13 +21,13 @@
             "#B08C80"
         ],
         "INTERACTIVE_NORMAL": [
-            "#FF42BA"
+            "#F8C8D1"
         ],
         "INTERACTIVE_HOVER": [
-            "#35242E"
+            "#E08AA3"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#FF42BA"
+            "#F4A8B5"
         ],
         "INTERACTIVE_MUTED": [
             "#A76E78"
@@ -36,10 +36,10 @@
             "#35242E"
         ],
         "BACKGROUND_SECONDARY": [
-            "#35242E"
+            "#3F2D36"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#35242E"
+            "#44313A"
         ],
         "BACKGROUND_TERTIARY": [
             "#392830"
@@ -51,10 +51,10 @@
             "#413034"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#35242E"
+            "#3F2D36"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#35242E"
+            "#44313A"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#44313A"
@@ -129,7 +129,6 @@
         "RED_400": "#BA6F77",
         "WHITE_500": "#FDF0EB",
         "GREEN_360": "#426754"
-        
     },
     "spec": 2
 }
