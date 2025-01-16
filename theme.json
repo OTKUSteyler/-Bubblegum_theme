@@ -21,13 +21,13 @@
             "#B08C80"
         ],
         "INTERACTIVE_NORMAL": [
-            "#F8C8D1"
+            "#FF42BA"
         ],
         "INTERACTIVE_HOVER": [
-            "#E08AA3"
+            "#FF63C7"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#F4A8B5"
+            "#FF85D3"
         ],
         "INTERACTIVE_MUTED": [
             "#A76E78"
@@ -69,13 +69,13 @@
             "#69424F"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#D86A88"
+            "#FF42BA"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#4A3D44"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#7E5D61"
+            "#FF42BA"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
@@ -90,10 +90,10 @@
             "#4B3A3F"
         ],
         "CHANNELS_DEFAULT": [
-            "#C19A93"
+            "#FF42BA"
         ],
         "TEXT_LINK": [
-            "#E88BB0"
+            "#FF42BA"
         ],
         "TEXT_DANGER": [
             "#B26573"
@@ -122,7 +122,7 @@
         "PRIMARY_800": "#2D1E26",
         "BRAND_260": "#BB827E",
         "BRAND_360": "#E3A3AC",
-        "BRAND_500": "#AE7078",
+        "BRAND_500": "#FF42BA",
         "BRAND_560": "#D49FA6",
         "YELLOW_300": "#D89A8B",
         "GREEN_600": "#C6B4B1",
