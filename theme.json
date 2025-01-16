@@ -1,11 +1,7 @@
 {
     "name": "Nekotheme",
-    "description": "A cozy, vibrant theme made by btmc727 ",
+    "description": "A cozy, vibrant theme made by btmc727.",
     "authors": [
-        {
-            "name": "btmc727",
-            "id": "554071670143451176"
-        },
         {
             "name": "btmc727",
             "id": "554071670143451176"
@@ -43,7 +39,7 @@
             "#3F2D36"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#4A3D44"
+            "#44313A"
         ],
         "BACKGROUND_TERTIARY": [
             "#392830"
@@ -52,7 +48,7 @@
             "#4A3D44"
         ],
         "BACKGROUND_FLOATING": [
-            "#44313A"
+            "#413034"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#3F2D36"
