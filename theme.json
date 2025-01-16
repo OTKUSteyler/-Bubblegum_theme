@@ -1,6 +1,6 @@
 {
     "name": "Nekotheme",
-    "description": "nekonya",
+    "description": "A cozy, vibrant theme inspired by Neko aesthetics.",
     "authors": [
         {
             "name": "btmc717",
@@ -13,126 +13,126 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#D93A96"
+            "#E963A5"
         ],
         "HEADER_SECONDARY": [
-            "#BF73A0"
+            "#C4558A"
         ],
         "TEXT_NORMAL": [
-            "#EBD4C9"
+            "#F1E7DD"
         ],
         "TEXT_MUTED": [
-            "#9B8478"
+            "#B08C80"
         ],
         "INTERACTIVE_NORMAL": [
-            "#F1C7BA"
+            "#F8C8D1"
         ],
         "INTERACTIVE_HOVER": [
-            "#BC8D82"
+            "#E08AA3"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#E9B9A5"
+            "#F4A8B5"
         ],
         "INTERACTIVE_MUTED": [
-            "#8F6D66"
+            "#A76E78"
         ],
         "BACKGROUND_PRIMARY": [
-            "#1E1A18"
+            "#201B1A"
         ],
         "BACKGROUND_SECONDARY": [
-            "#292320"
+            "#2A2423"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#2E2926"
+            "#302B29"
         ],
         "BACKGROUND_TERTIARY": [
-            "#24201E"
+            "#251F1E"
         ],
         "BACKGROUND_ACCENT": [
-            "#4A3D3A"
+            "#503C44"
         ],
         "BACKGROUND_FLOATING": [
-            "#352F2C"
+            "#392F2D"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#292320"
+            "#2A2423"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#2E2926"
+            "#302B29"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#2E2926"
+            "#302B29"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#3C312E"
+            "#463A38"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#493D3A"
+            "#5A454A"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#563C3A"
+            "#714D52"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#D14E6E"
+            "#D86A88"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#4A3D3A"
+            "#503C44"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#674F4C"
+            "#7E5D61"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#9C7D74"
+            "#AA868C"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#4A3D3A"
+            "#6B4A4D"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#3F3532"
+            "#4B3A38"
         ],
         "CHANNELS_DEFAULT": [
-            "#B08A7D"
+            "#C19A93"
         ],
         "TEXT_LINK": [
-            "#DB7290"
+            "#E88BB0"
         ],
         "TEXT_DANGER": [
-            "#9A6E67"
+            "#B26573"
         ],
         "KEYBOARD": [
-            "#2E2624"
+            "#312522"
         ],
         "CHANNEL_ICON": [
-            "#ECCBBF"
+            "#F2D3C7"
         ],
         "CHAT_BACKGROUND": [
-            "#005F50"
+            "#02674F"
         ]
     },
     "rawColors": {
-        "PRIMARY_500": "#D93A96",
-        "PRIMARY_100": "#F5E4DE",
-        "PRIMARY_200": "#E8C9BE",
-        "PRIMARY_300": "#D99385",
-        "PRIMARY_360": "#DB7290",
-        "PRIMARY_400": "#D05A7E",
-        "PRIMARY_600": "#2F2523",
-        "PRIMARY_630": "#392F2C",
-        "PRIMARY_660": "#3D3331",
-        "PRIMARY_700": "#241C1A",
-        "PRIMARY_800": "#1C1513",
-        "BRAND_260": "#A98478",
-        "BRAND_360": "#D4A096",
-        "BRAND_500": "#A26E62",
-        "BRAND_560": "#C09186",
-        "YELLOW_300": "#C0907A",
-        "GREEN_600": "#D8BDB0",
-        "RED_400": "#B06A64",
-        "WHITE_500": "#F8ECE7",
-        "GREEN_360": "#4D5A4A"
+        "PRIMARY_500": "#E963A5",
+        "PRIMARY_100": "#FDE4E9",
+        "PRIMARY_200": "#F6C1CC",
+        "PRIMARY_300": "#EA97A6",
+        "PRIMARY_360": "#E88BB0",
+        "PRIMARY_400": "#E27599",
+        "PRIMARY_600": "#372C2A",
+        "PRIMARY_630": "#3F3331",
+        "PRIMARY_660": "#453837",
+        "PRIMARY_700": "#2E2321",
+        "PRIMARY_800": "#241C1B",
+        "BRAND_260": "#BB827E",
+        "BRAND_360": "#E3A3AC",
+        "BRAND_500": "#AE7078",
+        "BRAND_560": "#D49FA6",
+        "YELLOW_300": "#D89A8B",
+        "GREEN_600": "#C6B4B1",
+        "RED_400": "#BA6F77",
+        "WHITE_500": "#FDF0EB",
+        "GREEN_360": "#426754"
     },
     "spec": 2
 }
