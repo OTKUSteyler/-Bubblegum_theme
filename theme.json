@@ -8,10 +8,7 @@
         }
     ],
     "semanticColors": {
-                           [        
-        "PLUM_10": 
-        "#0FF6FF"
-        ],
+
         "HEADER_PRIMARY": [
             "#E963A5"
         ],
@@ -111,6 +108,11 @@
         "CHAT_BACKGROUND": [
             "#35242E"
         ]
+
+                   [        
+        "PLUM_10": 
+        "#0FF6FF"
+        ],
     },
     "rawColors": {
         "PRIMARY_500": "#E963A5",
