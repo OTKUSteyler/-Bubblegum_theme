@@ -1,6 +1,6 @@
 {
     "name": "Nekotheme",
-    "description": "A cozy, vibrant theme by btmc727.",
+    "description": "A cozy, vibrant theme made by btmc727 ",
     "authors": [
         {
             "name": "btmc727",
@@ -43,7 +43,7 @@
             "#3F2D36"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#44313A"
+            "#4A3D44"
         ],
         "BACKGROUND_TERTIARY": [
             "#392830"
@@ -52,7 +52,7 @@
             "#4A3D44"
         ],
         "BACKGROUND_FLOATING": [
-            "#413034"
+            "#44313A"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#3F2D36"
